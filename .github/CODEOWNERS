@@ -1,0 +1,8 @@
+# Core code - maintainer only
+/src/ @ezhovkin
+/container/ @ezhovkin
+/package.json @ezhovkin
+/package-lock.json @ezhovkin
+
+# Skills - open to contributors
+/.claude/skills/

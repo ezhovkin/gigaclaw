@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local data & auth
+store/
+data/
+logs/
+
+# Secrets
+*.keys.json
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs & temp
+*.log
+*.patch
+*.tmp
+coverage/
+test-temp/
+
+# Container runtime
+.container/
+
+agents-sdk-docs
